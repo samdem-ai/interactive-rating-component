@@ -1,0 +1,141 @@
+@font-face {
+  font-family: "Overpass";
+  src: url(images/Overpass-VariableFont_wght.ttf);
+}
+body {
+  font-family: "Overpass" !important;
+  background: hsl(216, 12%, 8%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: #181e27;
+}
+
+p {
+  font-size: 14px;
+  color: hsl(217, 12%, 63%);
+}
+
+.card {
+  background-image: linear-gradient(135deg, hsl(213, 19%, 18%), hsl(213, 19%, 10%)); 
+  width: 325px;
+  border-radius: 25px;
+  margin-top: 45%;
+
+}
+
+.rate,
+.star {
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  background-color: hsl(213, 19%, 18%);
+  border-radius: 50%;
+}
+
+
+.rate {
+  display: flex;
+  justify-content: center;
+  width: 45px;
+  height: 45px;
+  padding: 12px;
+  margin-bottom: 1.5rem;
+}
+
+.rateOnHover {
+
+  animation-duration: 1s;
+  animation-name: colorChange;
+  animation-fill-mode: forwards;
+
+}
+
+.selected{
+  background-color: hsl(216, 12%, 54%);
+    color: white;
+}
+  
+@keyframes colorChange {
+  to {
+    background-color: hsl(25, 97%, 53%);
+    color: white;
+  }
+}
+
+.btn {
+  background-color: hsl(25, 97%, 53%);
+  color: white;
+  margin-bottom: 1.5rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  height: 2.5rem;
+  font-size: 13px;
+}
+
+.btn:hover {
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(25, 97%, 53%);
+}
+
+.start {
+  display: flex;
+  flex-direction: column;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-top: 1.5rem;
+  gap: 1.5em;
+}
+
+
+.text-rating{
+  color: hsl(25, 97%, 53%);
+  background-color: hsl(213, 19%, 18%);
+  padding: .5rem;
+}
+
+.hide{
+  display: none !important;
+}
+
+
+
+@media (min-width: 450px){
+  .card{
+    margin-top: 30%;
+} 
+}
+
+@media (min-width: 700px){
+  .card{
+    margin-top: 25%;
+} 
+}
+
+@media (min-width: 900px){
+  .card{
+    margin-top: 20%;
+} 
+}
+
+@media (min-width: 1100px){
+  .card{
+    margin-top: 15%;
+} 
+}
+
+@media (min-width: 1440px){
+  .card{
+    margin-top: 12%;
+} 
+}
+
+@media (min-width: 1800px){
+  .card{
+    margin-top: 10%;
+} 
+}
