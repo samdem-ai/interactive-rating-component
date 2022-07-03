@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/samdem-ai/interactive-rating-component)
+- Live Site URL: [Add live site URL here](https://samdem-ai.github.io/interactive-rating-component/)
 
 
 ### Built with
@@ -53,7 +53,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Debaili samy](https://www.your-site.com)
+- Website - [Debaili samy](https://github.com/samdem-ai/interactive-rating-component)
 - Frontend Mentor - [@samdem-ai](https://www.frontendmentor.io/profile/samdem-ai)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
