@@ -30,12 +30,11 @@ Users should be able to:
 ![](images/screenshot.png)
 
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/samdem-ai/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://samdem-ai.github.io/interactive-rating-component/)
+- Solution URL: [solution URL](https://github.com/samdem-ai/interactive-rating-component)
+- Live Site URL: [live site URL](https://samdem-ai.github.io/interactive-rating-component/)
 
 
 ### Built with
@@ -46,20 +45,19 @@ Users should be able to:
 - Bootstrap 5
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 
 
 
 ## Author
 
-- Website - [Debaili samy](https://github.com/samdem-ai/interactive-rating-component)
+- Website - [Debaili samy](https://samdem-ai.github.io/personalSite)
 - Frontend Mentor - [@samdem-ai](https://www.frontendmentor.io/profile/samdem-ai)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
 a big Thank you to both of  colt steele and the net ninja who are helping me through my frontend developenent carrere
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
